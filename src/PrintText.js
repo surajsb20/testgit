@@ -28,6 +28,7 @@ this.tick()
       <p>
 {this.state.value}
 </p>
+            <p>Hello World </p>
     </div>);
    }
   }
